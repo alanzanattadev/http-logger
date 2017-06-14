@@ -1,0 +1,8 @@
+{
+  "name": "http-logger",
+  "version": "0.1.0",
+  "description": "Simple CLI http logger",
+  "main": "lib/index.js",
+  "author": "alanzanattadev",
+  "license": "MIT"
+}
