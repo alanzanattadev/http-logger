@@ -2,6 +2,9 @@
   "name": "http-logger",
   "version": "0.1.0",
   "description": "Simple CLI http logger",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
   "main": "lib/index.js",
   "author": "alanzanattadev",
   "license": "MIT"
