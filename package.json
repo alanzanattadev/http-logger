@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Simple CLI http logger",
   "scripts": {
-    "start": "node lib/index.js"
+    "start": "node lib/index.js",
+    "now-start": "npm run start -- --stdout -p 443"
   },
   "main": "lib/index.js",
   "author": "alanzanattadev",
